@@ -1,9 +1,9 @@
-THIS PROJECT IS NOW ARCHIVED AND NO LONGER MAINTAINED.
+THIS PROJECT IS CURRENTLY UNDER CONSTRUCTION BY [SMITHY](https://twitter.com/smithmfjankens) & [twitter](https://twitter.com/ccurly3)
 
-# Ohio FGC Website
+# Florida FGC Website
 
-The Ohio Fighting Game Community is pretty large and separated.  The amount of times I run into new players and they say they couldn't find any information about the scene is way more than it should be.  So this website is an attempt to help consolidate information to make it easier for people to find the events and players near them.
+The Florida Fighting Game Community is pretty large and separated.  This website is an attempt to help consolidate information to make it easier for people to find the events and players near them.
 
-If you think something should be added to the site, get in contact with me here or on [twitter](https://twitter.com/codecory).
+If you think something should be added to the site, get in contact with us here or on twitter.
 
-You can view the site [here](https://ohiofgc.com)
+You can view the site [here](https://flfgc.com)
