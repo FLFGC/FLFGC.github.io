@@ -1,4 +1,4 @@
-THIS PROJECT IS CURRENTLY UNDER CONSTRUCTION BY [SMITHY](https://twitter.com/smithmfjankens) & [twitter](https://twitter.com/ccurly3)
+THIS PROJECT IS CURRENTLY UNDER CONSTRUCTION BY [SMITHY](https://twitter.com/smithmfjankens) & [CCURLY](https://twitter.com/ccurly3)
 
 # Florida FGC Website
 
